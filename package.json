@@ -1,0 +1,12 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A simple, vanilla JavaScript todo application",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --test app.test.js"
+  },
+  "keywords": ["todo", "vanilla-js"],
+  "author": "",
+  "license": "MIT"
+}
